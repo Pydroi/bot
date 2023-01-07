@@ -6,7 +6,7 @@ import time
 
 
 
-TOKEN ="MTAyMTM1NjI3Mjk1MzYxMDI1MA.GsoSSD.XqffMCWNeNIC9whI6MdTNSdxNMyOnpog5HXqvw"
+TOKEN =""
 
 client = discord.Client()
 
